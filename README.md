@@ -6,6 +6,7 @@ This project is a simple chat system using python sockets. I made it mostly just
 # Requirements
 
 Python 3
+
 Tkinter
 
 
